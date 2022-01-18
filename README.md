@@ -1,9 +1,6 @@
-Hello visitor, welcome to my profile ^^. I'm Nursima.
+*Hello visitor, welcome to my profile ^^. I'm Nursima.*
 
-Have a nice trip \o/
-
-
-Guide to the repos:
+### Repository Guide
 
 - Patika & Sodexo Bootcamp .Net:
   - Learning Get, Post, Put, Delete: [Book Project](https://github.com/nursimacelik/first-homework-nursimacelik)
@@ -11,7 +8,7 @@ Guide to the repos:
   - Learning AutoMapper and Middleware: [Smart Waste Collection](https://github.com/nursimacelik/ucuncuodev-nursimacelik)
 
 - Non-Euclidean Methods in Machine Learning
-  - [Final project]()
+  - Implementation of a sampling algorithm for BMF distribution: [Final project](https://github.com/nursimacelik/sampling-from-bmf)
 
 - Introduction to Information Retrieval
   - Edit distance: [Hw1](https://github.com/nursimacelik/information-retrieval-hw1) 
@@ -22,3 +19,6 @@ Guide to the repos:
 
 - Blockchain
   - A lottery smart contract written in Solidity and tested in Node.js: [BULOT](https://github.com/tapachir/BULOT)
+
+
+*Have a nice trip \o/*
