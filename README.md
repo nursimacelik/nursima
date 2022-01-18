@@ -1,4 +1,6 @@
-Hello \o/.
+Hello visitor, welcome to my profile ^^. I'm Nursima.
+
+Have a nice trip \o/
 
 
 Guide to the repos:
