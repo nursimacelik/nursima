@@ -3,9 +3,9 @@
 ### Repository Guide
 
 - Patika & Sodexo Bootcamp .Net:
-  - Learning Get, Post, Put, Delete: [Book Project](https://github.com/nursimacelik/first-homework-nursimacelik)
-  - Learning Entity Framework, UnitofWork, Repository Pattern and applying k-means clustering: [Smart Waste Collection](https://github.com/nursimacelik/ikinci-hafta-odevi-nursimacelik)
-  - Learning AutoMapper and Middleware: [Smart Waste Collection](https://github.com/nursimacelik/ucuncuodev-nursimacelik)
+  - Using Get, Post, Put, Delete Methods: [Book Project](https://github.com/nursimacelik/first-homework-nursimacelik)
+  - Implementing Entity Framework, UnitofWork, Repository Pattern and applying k-means clustering: [Smart Waste Collection](https://github.com/nursimacelik/ikinci-hafta-odevi-nursimacelik)
+  - Using AutoMapper and Middleware: [Smart Waste Collection](https://github.com/nursimacelik/ucuncuodev-nursimacelik)
 
 - Non-Euclidean Methods in Machine Learning
   - Implementation of a sampling algorithm for BMF distribution: [Final project](https://github.com/nursimacelik/sampling-from-bmf)
