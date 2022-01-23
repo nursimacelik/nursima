@@ -8,7 +8,7 @@
   - Using AutoMapper and Middleware: [Smart Waste Collection](https://github.com/nursimacelik/ucuncuodev-nursimacelik)
 
 - Non-Euclidean Methods in Machine Learning
-  - Implementation of a sampling algorithm for BMF distribution: [Final project](https://github.com/nursimacelik/sampling-from-bmf)
+  - Implementation of a sampling algorithm for BMF distribution in Python using geomstats: [Final project](https://github.com/nursimacelik/sampling-from-bmf)
 
 - Introduction to Information Retrieval
   - Edit distance: [Hw1](https://github.com/nursimacelik/information-retrieval-hw1) 
