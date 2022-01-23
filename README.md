@@ -2,7 +2,7 @@
 
 ### Repository Guide
 
-- Patika & Sodexo Bootcamp .Net:
+- Patika & Sodexo .Net Bootcamp
   - Using Get, Post, Put, Delete Methods: [Book Project](https://github.com/nursimacelik/first-homework-nursimacelik)
   - Implementing Entity Framework, UnitofWork, Repository Pattern and applying k-means clustering: [Smart Waste Collection](https://github.com/nursimacelik/ikinci-hafta-odevi-nursimacelik)
   - Using AutoMapper and Middleware: [Smart Waste Collection](https://github.com/nursimacelik/ucuncuodev-nursimacelik)
