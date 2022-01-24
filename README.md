@@ -14,7 +14,7 @@
   - Edit distance: [Hw1](https://github.com/nursimacelik/information-retrieval-hw1) 
   - Document retrieval using inverted index: [Hw2](https://github.com/nursimacelik/information-retrieval-hw2) 
   - Book recommendation using cosine similarity: [Hw3](https://github.com/nursimacelik/information-retrieval-hw3) 
-  - Spam classifier using Naive Bayes w/o Mutual Information: [Hw4](https://github.com/nursimacelik/information-retrieval-hw4) 
+  - Spam classifier using Naive Bayes with/without Mutual Information: [Hw4](https://github.com/nursimacelik/information-retrieval-hw4) 
   - A question answering system for TREC-COVID Challenge. Given a question, retrieves documents that may have the answer. [Project](https://github.com/egirgin/cmpe493-term-project)
 
 - Blockchain
