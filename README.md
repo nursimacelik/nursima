@@ -22,3 +22,5 @@
 
 
 *Have a nice trip \o/*
+
+![](https://komarev.com/ghpvc/?username=nursimacelik&color=ff928a)
