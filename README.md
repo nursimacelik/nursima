@@ -7,6 +7,8 @@
   - Implementing Entity Framework, UnitofWork, Repository Pattern and applying k-means clustering: [Smart Waste Collection](https://github.com/nursimacelik/ikinci-hafta-odevi-nursimacelik)
   - Using AutoMapper and Middleware: [Smart Waste Collection](https://github.com/nursimacelik/ucuncuodev-nursimacelik)
 
+- Final report of our project in PRACE Summer of High Performance Computing: [prace_sohpc_2020](https://github.com/nursimacelik/prace_sohpc_2020)
+
 - Non-Euclidean Methods in Machine Learning
   - Implementation of a sampling algorithm for BMF distribution on Stiefel manifolds (using geomstats library): [Final project](https://github.com/nursimacelik/sampling-from-bmf)
 
